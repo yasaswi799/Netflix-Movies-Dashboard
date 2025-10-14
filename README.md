@@ -1,50 +1,66 @@
-📊 Netflix Movies Dashboard (Power BI)
-📝 Overview
+Netflix Movies Dashboard - Power BI Project
+Project Overview
 
-This project showcases an interactive Power BI dashboard built using Netflix movies data.
-It provides insights into movie trends, genres, ratings, budgets, languages, and country-based production — all visualized in a clean, dynamic interface.
+The Netflix Movies Dashboard is an interactive data visualization project created using Power BI Desktop.
+It analyzes Netflix movies data to uncover insights into movie trends, genres, ratings, budgets, and languages.
+The dashboard allows users to explore the dataset dynamically through various visuals and filters.
 
-🎯 Objective
+Purpose
 
-To explore and analyze Netflix’s movie dataset using Power BI, turning raw data into meaningful insights through visual storytelling.
+This project was built to strengthen my data analysis and visualization skills using Power BI.
+It demonstrates how data can be transformed into meaningful insights to understand real-world patterns and decisions.
 
-⚙️ Key Features
+Features
 
-📈 KPIs: Total Movies, Actors, and Ratings count.
+📈 KPIs: Total movies, actors, and ratings count.
 
-🌎 Country Analysis: Visualizes which countries produce the most content and their total budget share.
+🌍 Country Insights: Visualizes production and budget distribution by country.
 
-🎬 Genre Insights: Displays average ratings per genre and year.
+🎬 Genre Analysis: Shows average ratings per genre and year.
 
-🔠 Language Breakdown: Pie chart representing the most used languages.
+💬 Language Breakdown: Displays the most used languages.
 
-⭐ Popularity Trends: Highlights movies with the highest ratings and appearances.
+⭐ Popularity Metrics: Highlights the most frequent actors and top-rated movies.
 
-🧭 Interactive Dashboard: Users can explore data dynamically with filters and slicers.
+🧭 Interactive Filters: Allows users to explore data dynamically using slicers and visuals.
 
-🧰 Tools & Technologies
+How to View the Dashboard
+
+Download the Power BI file:
+👉 Netflix_Dashboard.pbix
+
+Open it using Power BI Desktop.
+
+Interact with the visuals and slicers to explore the Netflix dataset.
+
+Tools Used
 
 Power BI Desktop
 
-Data Cleaning & Modeling: Power Query Editor
+Power Query Editor (for data cleaning and modeling)
 
-Dataset: Netflix Movies Dataset (CSV)
+DAX (for creating KPIs and calculated fields)
 
-Visualization Techniques: DAX, KPIs, charts, and filters
+Dataset: Netflix Movies (CSV format)
 
-📷 Dashboard Preview
-
-<img width="594" height="329" alt="final_dashboard" src="https://github.com/user-attachments/assets/0b70e8dd-015c-46aa-a378-72b9166f8c07" />
+Dashboard Preview
 
 
-💡 Insights
+<img width="594" height="329" alt="final_dashboard" src="https://github.com/user-attachments/assets/663ff595-7deb-4c5c-9823-23f28c0bef8e" />
 
-The U.S. contributes the highest number of movies and total budget.
+Insights
 
-Action and Adventure genres dominate viewership and ratings.
+The U.S. produces the highest number of Netflix movies and holds the largest share of total budget.
 
-English is the most used language, followed by French and Japanese.
+Action and Adventure genres dominate viewership and average ratings.
 
-👩‍💻 Author
+English is the most common language, followed by French and Japanese.
+
+GitHub Repository
+
+🔗 Netflix Movies Dashboard on GitHub
+ (replace with your actual repo link once uploaded)
+
+Author
 
 Yasaswi Bora
