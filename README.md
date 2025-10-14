@@ -57,7 +57,7 @@ English is the most common language, followed by French and Japanese.
 GitHub Repository
 
 🔗 Netflix Movies Dashboard on GitHub
-[ (replace with your actual repo link)](https://github.com/yasaswi799/Netflix-Movies-Dashboard)
+https://github.com/yasaswi799/Netflix-Movies-Dashboard
 
 Developed by
 
