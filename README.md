@@ -1,5 +1,5 @@
 # Netflix-Movies-Dashboard-PowerBI
-An interactive Power BI dashboard to explore Netflix movies data.
+An interactive Power BI dashboard to explore Netflix movies data, visualize trends, and gain actionable insights.
 
 ---
 
@@ -25,14 +25,6 @@ It demonstrates how raw data can be transformed into **meaningful insights** to 
 
 ---
 
-## How to View the Dashboard
-1. Download the Power BI file: `net.pbix`
-2. Open it using **Power BI Desktop**.  
-3. Interact with visuals and slicers to explore Netflix movies data.  
-
-*Note: No Power BI Service account is required; everything works locally.*
-
----
 
 ## Tools Used
 - **Power BI Desktop**  
@@ -54,5 +46,3 @@ It demonstrates how raw data can be transformed into **meaningful insights** to 
 
 ---
 
-## Developed by
-Yasaswi Bora
