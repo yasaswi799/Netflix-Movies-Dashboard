@@ -41,6 +41,12 @@ It demonstrates how raw data can be transformed into **meaningful insights** to 
 
 ---
 
+## Project Dashboard
+
+Here’s how the project dashboard looks:
+
+![Dashboard Output](images/dashboard_output.png)
+
 ## GitHub Repository
 🔗 https://github.com/yasaswi799/Netflix-Movies-Dashboard.git
 
