@@ -47,8 +47,5 @@ Here’s how the project dashboard looks:
 
 ![Dashboard Output](dashboard_result.png)
 
-## GitHub Repository
-🔗 https://github.com/yasaswi799/Netflix-Movies-Dashboard.git
-
 ---
 
